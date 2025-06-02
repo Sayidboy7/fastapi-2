@@ -4,9 +4,9 @@ This is the sample website that uses the Api to get the and send the data to dat
 needed languages : Python, Html, SQL, Css
 needed tools (for forntend) : Bootstrap, Tailwand Css
 -
-# needed frameworks : Flask, FlaskRestful, FastApi, CORS
-# Ai to help : Grok, OpenAi - Chatgpt, Cloude, Queen, Deepseek
-
+ needed frameworks : Flask, FlaskRestful, FastApi, CORS
+ Ai to help : Grok, OpenAi - Chatgpt, Cloude, Queen, Deepseek
+-
 # Author : Sayidboy7
 # Github : https://github.com/Sayidboy7
 # Youtube : https://youtube.com/@SayidboyDev
