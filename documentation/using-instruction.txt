@@ -1,0 +1,15 @@
+-- This is the simple API created using FastApi and its allow the GET POST PUT DELETE methods that's all called CRUD operations
+-- This website looks like API interface
+
+-- You can show the tables the Api connected and show the item in that tables and actually create item to the tables and update, delete
+
+-- Functionalities : 
+# Create a item for every table you connect to the Api
+# Can Update the items on the tables
+# Can Delete the items on the tables
+
+-- version: 1.0.1
+-- next update: coming soon
+-- Api port: 8000
+
+-- Published Github by Author: Sayidboy7
